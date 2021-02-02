@@ -1,1 +1,1 @@
-# PSFITNESS [x]
+# PSFITNESS [X]
